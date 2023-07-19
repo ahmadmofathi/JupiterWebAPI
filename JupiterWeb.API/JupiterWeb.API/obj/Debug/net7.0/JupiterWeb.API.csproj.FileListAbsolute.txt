@@ -1,0 +1,7 @@
+C:\Users\ahmad\source\repos\JupiterWeb.API\JupiterWeb.API\obj\Debug\net7.0\JupiterWeb.API.csproj.AssemblyReference.cache
+C:\Users\ahmad\source\repos\JupiterWeb.API\JupiterWeb.API\obj\Debug\net7.0\JupiterWeb.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahmad\source\repos\JupiterWeb.API\JupiterWeb.API\obj\Debug\net7.0\JupiterWeb.API.AssemblyInfoInputs.cache
+C:\Users\ahmad\source\repos\JupiterWeb.API\JupiterWeb.API\obj\Debug\net7.0\JupiterWeb.API.AssemblyInfo.cs
+C:\Users\ahmad\source\repos\JupiterWeb.API\JupiterWeb.API\obj\Debug\net7.0\JupiterWeb.API.csproj.CoreCompileInputs.cache
+C:\Users\ahmad\source\repos\JupiterWeb.API\JupiterWeb.API\obj\Debug\net7.0\JupiterWeb.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ahmad\source\repos\JupiterWeb.API\JupiterWeb.API\obj\Debug\net7.0\JupiterWeb.API.MvcApplicationPartsAssemblyInfo.cache
